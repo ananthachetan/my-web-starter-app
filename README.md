@@ -1,12 +1,15 @@
-# my-vuetify-starter-app
-A starter app for VueJS projects which uses Vuetify framework for UI, Axios for APIs, Lodash for common utilities and Vue-Route with Eslint, Babel and Prettier configured with Vue-CLI. Some of the custom components created by me on top of existing Vuetify components are also added. 
+# my-web-starter-app
+
+A starter app for VueJS projects which uses Vuetify framework for UI, Axios for APIs, Lodash for common utilities and Vue-Route with Eslint, Babel and Prettier configured with Vue-CLI. Some of the custom components created by me on top of existing Vuetify components are also added.
 
 ### Project Setup
 
 ```
 yarn
 ```
-If you have problem with husky try installing using npm 
+
+If you have problem with husky try installing using npm
+
 ```
 npm install
 ```

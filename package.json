@@ -1,5 +1,5 @@
 {
-  "name": "my-vuetify-starter-app",
+  "name": "my-web-starter-app",
   "version": "0.0.1",
   "description": "A starter app for VueJS projects which uses Vuetify framework for UI, Axios for APIs, Lodash for common utilities and Vue-Route with Eslint, Babel and Prettier configured with Vue-CLI",
   "scripts": {
